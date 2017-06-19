@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="IndexView">
+        <attr name="currentNumber" format="integer"/>
+    </declare-styleable>
+</resources>
