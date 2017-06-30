@@ -12,6 +12,7 @@ import android.view.View;
 public class IndexView extends View {
     private Paint mPaint;
     private int currentNumber;
+    private int text;
 
     public IndexView(Context context) {
         this(context, null);
